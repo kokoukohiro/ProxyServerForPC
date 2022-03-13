@@ -25,7 +25,8 @@ Please enter the IP of the other party (server).
 `Please connnect to the Internet`  
 Please connect to the Internet.  
   
-`Can not map the port,please map it manually` or `Can not map the port,the use of the UPnP feature in router,please map it manually`  
+`Can not map the port,please map it manually` or  
+`Can not map the port,the use of the UPnP feature in router,please map it manually`  
 The port mapping failed, you are asked to port map manually, which usually occurs on the server. For how to manually port map refer to [this](https://www.hellotech.com/guide/for/how-to-port-forward).  
 
 `Map to xxx.xxx.xxx.xxx:xxxx success`  
