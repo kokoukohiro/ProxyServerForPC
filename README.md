@@ -45,4 +45,5 @@ Chat, non-English character compatibility is not very good, not very useful.
 2. Enter `ipconfig` and press `Enter`
 3. Find the ipv4 line, that is your LAN IP, please remember it
 4. Inside the console network settings, find proxy setting, fill in your LAN IP in the first line, fill in your custom local port in the second line, save
+  
 Please ensure that your client and the server are both on and that the computer does not sleep while the program is working.The server IP and your LAN IP will change every day, but there are ways to fix the LAN IP, please google it.
