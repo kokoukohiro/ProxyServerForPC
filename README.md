@@ -6,7 +6,7 @@ It is used to solve the problem of high online latency, but you need to find som
   
 *Client please enter* `exit` *to exit, otherwise closing directly will result in no internet access.*
 
-### Display
+## Display
 `server or client?`  
 By entering `server` you will become the server and the network will not be affected.  
 By entering `client` you will become the client and access the other network, your IP will become the IP of the other party and your latency will always be slightly higher than the other party.  
@@ -30,7 +30,7 @@ The port mapping failed, you are asked to port map manually, which usually occur
 `Map to xxx.xxx.xxx.xxx:xxxx success`  
 The port mapping is successful. The one in front of `:` is your server IP, the one after is your server port, let the client enter these to access you.  
   
-### Command
+## Command
 `showtopo`  
 Show the current server IP and the IP of all clients accessing the server, can be used to check your IP in case of port mapping failure.  
   
