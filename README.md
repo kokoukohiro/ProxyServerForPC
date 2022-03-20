@@ -63,7 +63,7 @@ Chat, the next input will be sent to the entire proxy network.
 `portmap`  
 Performing port mapping, used to allow clients to access the device when it is a client, or to remap if the port mapping fails.  
   
-`package`
+`package`  
 Display of all request packets passing through the device, second entry to turn off display.  
   
 `latency`  
